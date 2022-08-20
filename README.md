@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this proeject is to build a basic recipie website to display skills in HTML. Skills include the basic setup of an HTML document, creation of headings, paragraphs, links to other websites, links to images, and accessing the website on a browser. 
