@@ -20,6 +20,16 @@ a{
     color: red;
     font-size: 48px;
 }
+/*recipe-universal*/
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+
+/*lasagna.html*/
+
 /*hi.html*/
 #inside-easter-egg{
     text-align: left;
