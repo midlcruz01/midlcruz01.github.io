@@ -12,3 +12,11 @@ a{
 .index-desc{
     font-size: 24px;
 }
+#easter-egg{
+    color:white;
+    font-size: xx-small;
+}
+/*hi.html*/
+#inside-easter-egg{
+    text-align: left;
+}
