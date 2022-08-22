@@ -16,6 +16,10 @@ a{
     color:white;
     font-size: xx-small;
 }
+.header{
+    color: red;
+    font-size: 48px;
+}
 /*hi.html*/
 #inside-easter-egg{
     text-align: left;
