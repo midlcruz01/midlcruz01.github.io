@@ -1,0 +1,14 @@
+/*index.html*/
+body{
+    color: white;
+    background-color: rgb(37, 37, 37);
+    font-family: 'Brush Script MT', 'Times New Roman', sans-serif;
+    text-align: center;
+}
+a{
+    font-size: 32px;
+    color: red;
+}
+.index-desc{
+    font-size: 24px;
+}
